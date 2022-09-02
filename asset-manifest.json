@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/Email-intergration/static/css/main.38aadcfe.css",
+    "main.js": "/Email-intergration/static/js/main.a2cae768.js",
+    "static/media/images.png": "/Email-intergration/static/media/images.aa9cd6b3ed3843642daa.png",
+    "index.html": "/Email-intergration/index.html",
+    "main.38aadcfe.css.map": "/Email-intergration/static/css/main.38aadcfe.css.map",
+    "main.a2cae768.js.map": "/Email-intergration/static/js/main.a2cae768.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.38aadcfe.css",
+    "static/js/main.a2cae768.js"
+  ]
+}
