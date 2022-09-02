@@ -1,0 +1,45 @@
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display:ital@1&family=Poppins:ital,wght@0,100;0,200;0,300;1,100;1,200;1,300&display=swap');
+
+
+body{
+    font-family: 'Playfair Display', serif;
+font-family: 'Poppins', sans-serif;
+    padding: 0 11rem 0 11rem;
+}
+
+
+
+@media (max-width:1112px){
+   body{
+       padding:0 5rem 0 5rem;
+
+   }
+
+
+}
+@media (max-width:919px){
+    body{
+        padding:0 4rem 0 4rem;
+ 
+    }
+ 
+ 
+ }
+
+
+
+@media (max-width:886px){
+    body{
+        padding:0 3rem 0 3rem;
+ 
+    }
+ 
+    
+ }
+
+ @media (max-width:850px){
+   
+    
+ }
+
+
